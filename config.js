@@ -1,7 +1,7 @@
 
 window.CATALOG_CONFIG = {
   businessName: "La Esquina Burger",
-  whatsappNumber: "4444021666", 
+  whatsappNumber: "", 
   locale: "es-MX",
   currency: "MXN",
   products: [
