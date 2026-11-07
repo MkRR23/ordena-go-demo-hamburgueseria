@@ -1,7 +1,7 @@
-/* EDITA ESTE ARCHIVO PARA CADA NEGOCIO. WhatsApp: código de país + 10 dígitos, sin espacios ni +. */
+
 window.CATALOG_CONFIG = {
   businessName: "La Esquina Burger",
-  whatsappNumber: "", // EJEMPLO: "524441234567"; dejar vacío = modo demostración seguro
+  whatsappNumber: "4444021666", 
   locale: "es-MX",
   currency: "MXN",
   products: [
